@@ -60,10 +60,10 @@ nav ul li a {
   border-radius: 4px;
 }
 
-.sport { background-image: url('/foodball.jpg'); }
-.life { background-image: url('/JS.jpg'); }
-.tech { background-image: url('/BJ.jpg'); }
-.music { background-image: url('/Ks.jpg'); }
+.sport { background-image: url('foodball.jpg'); }
+.life { background-image: url('JS.jpg'); }
+.tech { background-image: url('BJ.jpg'); }
+.music { background-image: url('Ks.jpg'); }
 
 .featured h2 {
   position: absolute;
